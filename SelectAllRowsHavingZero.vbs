@@ -1,4 +1,4 @@
-Sub SelectNonBoldRowsWithZero()
+Sub SelectRowsWithZero()
 
     Dim ws As Worksheet
     Dim rng As Range
